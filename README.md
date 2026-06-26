@@ -142,9 +142,7 @@ criminalidad-peru-dashboard/
 │       └── 2_Acerca_del_Proyecto.py
 │
 ├── data/
-│   ├── raw/
-│   │   └── .gitkeep
-│   └── processed/
+│   └── raw/
 │       └── .gitkeep
 │
 ├── database/

@@ -13,11 +13,9 @@ __pycache__/
 
 # Datos pesados o sensibles
 data/raw/*
-data/processed/*
 
-# Permitir carpeta vacía si deseas
+# Permitir carpeta vacía si se desea
 !data/raw/.gitkeep
-!data/processed/.gitkeep
 
 # Archivos temporales
 *.log
