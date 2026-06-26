@@ -431,13 +431,10 @@ Este proyecto demuestra conocimientos en:
 
 ## Autor
 
-Desarrollado por:
+**Flavio Enrique Huapaya Bohorquez**
 
-```text
-Flavio Enrique Huapaya Bohorquez
-Estudiante de Ingeniería de Sistemas
-Interés en análisis de datos, bases de datos y visualización de información.
-```
+Estudiante de Ingeniería de Sistemas  
+Universidad Nacional Mayor de San Marcos
 
 ---
 
